@@ -111,21 +111,19 @@ During the 3-week Soft Skill Training program and Sunday LST sessions, I develop
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
 
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
+
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+ 
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+
 
 ### **Impact / Contribution**
 
@@ -134,10 +132,6 @@ During my internship period, I participated in multiple community-oriented activ
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
 
-### **Photos**
-
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
 
 ## 🤝 Community Service
 
@@ -165,7 +159,6 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- You can add Acknowledgments over here in same syntax as below -->
 
 - [Mehak Majeed](https://www.linkedin.com/in/mehak-majeed), Junior Engineer - ATFAAL Innovations Pvt. Ltd and Embedded System and IoT Trainer - SURE ProEd 
   📧 Email: mehakmajeed746@gmail.com  
