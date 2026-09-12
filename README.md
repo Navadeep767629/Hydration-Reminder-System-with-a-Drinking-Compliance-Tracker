@@ -165,7 +165,14 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+<!-- You can add Acknowledgments over here in same syntax as below -->
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Mehak Majeed](https://www.linkedin.com/in/mehak-majeed), Junior Engineer - ATFAAL Innovations Pvt. Ltd  
+  📧 Email: mehakmajeed746@gmail.com  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/mehak-majeed)
+
+- [Mehak Majeed](https://www.linkedin.com/in/mehak-majeed), Embedded System and IoT Trainer - SURE ProEd  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/mehak-majeed)
+
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b), Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
